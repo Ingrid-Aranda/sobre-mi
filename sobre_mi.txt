@@ -1,3 +1,12 @@
 Mi nombre es Ingrid Sayuri Aranda Vazquez, tengo 18 años.
 Estoy por cursar el quinto semestre de Ingenieria en Sistemas Inteligentes.
 Me gusta pasar tiempo con mi familia y amigos, bailar, cantar y cocinar.
+
+-Herramientas de Software
+-Sistemas Interactivos
+-Ingenieria de Software
+-Bases de Datos
+-Software de Sistemas
+
+-Diseño e implementacion de una Base de Datos para el escenario "Laboratorio de Electronica"
+-Diseño de una Agenda Escolar
